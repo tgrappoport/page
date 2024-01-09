@@ -2,14 +2,11 @@
 site_name: "Tatiana G. Rappoport "
 site_description: Tatiana G. Rappoport"
 site_author: "TGR"
-#site_url: "https://quantum-kite.com/"
-#site_url: tgrappoport.gitlab.io/kite-webpage
-# Repository
-#repo_name: "quantum-kite-doc"
-#repo_url: "https://github.com/quantum-kite/"
+site_url: https://tgrappoport.github.io/page/
+
 
 # Copyright
-copyright: "Tatiana G. Rappoport 2023"
+copyright: "Tatiana G. Rappoport 2024"
 
 # Navigation
 

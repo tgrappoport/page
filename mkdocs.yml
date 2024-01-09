@@ -1,0 +1,102 @@
+# Project information
+site_name: "Tatiana G. Rappoport "
+site_description: Tatiana G. Rappoport"
+site_author: "TGR"
+#site_url: "https://quantum-kite.com/"
+#site_url: tgrappoport.gitlab.io/kite-webpage
+# Repository
+#repo_name: "quantum-kite-doc"
+#repo_url: "https://github.com/quantum-kite/"
+
+# Copyright
+copyright: "Tatiana G. Rappoport 2023"
+
+# Navigation
+
+nav:
+  - Home: 'index.md'
+  - Bio: 'bio.md'
+  - Publications: 'publications.md'
+  - Research:
+    - 'research/index.md'
+    - Orbitronics: 'research/orbitronics.md'
+    - Photonics: 'research/photonics.md'
+    - Quantum Transport: 'research/transport.md'
+  - Outreach: outreach.md
+  - Teaching: teaching.md
+   
+  
+
+# Configuration
+site_dir: "../docs/"
+theme:
+  name: "material"
+  language: "en"
+  logo: "logo.svg"
+  favicon: "favicon.ico"
+  custom_dir: "custom/"
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+  primary: "deep purple"
+  palette:
+    - media: "(prefers-color-scheme: light)" # (1)!
+      scheme: kite
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" # (2)!
+      scheme: deep purple
+      accent: deep orange
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.indexes
+
+
+# Customization
+extra_css:
+  - "stylesheets/extra.css"
+  - "stylesheets/monokai.css"
+  - "stylesheets/colorful.css"
+
+#extra_javascript:
+  - https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+      baselevel: 2
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - md_in_html
+  - def_list
+  - tables
+  - meta
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+plugins:
+  - mkdocs-video
+#  - pymdownx.superfences:
+#      custom_fences:
+#        - name: mermaid
+#          class: mermaid
+#          format: !!python/name:pymdownx.superfences.fence_div_format
+

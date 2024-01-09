@@ -2,7 +2,7 @@
 Conventional electronics relies on electric charge for processing information. In contrast, spintronics introduced the use of both spin and electric charge to create an energy efficient and stable alternative. However, spintronics requires the conversion of information between charge and spin currents, usually accomplished through spin-orbit coupling. Unfortunately, materials with strong spin-orbit coupling, such as gold, platinum, and tungsten, are scarce, expensive, and environmentally damaging to mine.
 
 Orbitronics is a promising solution to these limitations. By manipulating the magnetic moment associated with the electrons' orbital angular momentum, rather than their spin, orbitronics eliminates the dependence on materials with strong spin-orbit coupling. This innovative approach broadens the range of materials that can be used for electrically controlling the magnetic moment of electrons.
-![orbital_hall](ohe.png)
+![orbital_hall](../ohe.png)
 
 Orbitronics has gained renewed interest for its potential use in logic and memory devices. By harnessing the orbital angular momentum as an information carrier, this technology has the potential to revolutionize the field of information processing. 
 

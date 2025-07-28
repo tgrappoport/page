@@ -30,7 +30,7 @@ Thesis Advisor: Mucio A. Continentino
 - 2008-2013 Junior Associate at ICTP-Trieste  
 
 ## Theses Supervised  
-- Raymond Valencia Master 2024/ "Orbital Accummulation in Chiral Molecules", Universidad Central de Venezuela.
+- Raymond Valencia Master 2024/ "Orbital Polarization in Chiral Molecules", Universidad Central de Venezuela.
 - Rodrigo P. Câmara - Phd 2023/ "Topology in Photonics" Instituto Superior Técnico, Portugal  (co-supervisor)
 - Fabio Rangel –  Master 2018/2020 “Electronic Properties of MoS2 Monolayers with Vacancies”  
 - [Luis Canonico (co-supervisor) ](https://www.researchgate.net/profile/Luis_Canonico)– PhD 2017/2020 “Orbital and spin transport in two- dimensional systems”  

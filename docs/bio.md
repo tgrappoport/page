@@ -11,11 +11,12 @@ Thesis Advisor: Mucio A. Continentino
 - BS in Physics, Federal University of Rio de Janeiro (1997) 
 
 ## Affiliations
-- (2023-) Principal Investigator, Minho University, Portugal.
-- (2015-) Associate Professor of Physics, Federal University of Rio de Janeiro (unpaid leave of absence since 2019).   
+- 2025 -  Pesquisadora Titular I, Centro Brasileiro de Pesquisas Físicas
+- 2024 - Associate Researcher, INL, Portugal.
+- (2023-2025) Principal Investigator, Minho University, Portugal.
+- (2015-2025) Associate Professor of Physics, Federal University of Rio de Janeiro.   
 - (2020-2023) Researcher, Instituto de Telecomunicações, Portugal.  
 - (2019-2020) Researcher, Minho University - Portugal   
-
 - (2007-2015) Assistant Professor of Physics, Federal University of Rio de Janeiro, Brazil  
 - Research Associate, Federal University of Rio de Janeiro, Brazil  
 - Research Associate, University of Notre Dame, USA  
@@ -29,20 +30,23 @@ Thesis Advisor: Mucio A. Continentino
 - 2008-2013 Junior Associate at ICTP-Trieste  
 
 ## Theses Supervised  
-
-1. Fabio Rangel –  Master 2018/2020 “Electronic Properties of MoS2 Monolayers with Vacancies”  
-1. [Luis Canonico (co-supervisor) ](https://www.researchgate.net/profile/Luis_Canonico)– PhD 2017/2020 “Orbital and spin transport in two- dimensional systems”  
-1. [Tarik Cysne ](https://www.researchgate.net/profile/Tarik_Cysne)– PhD 2015/2019 “Spin-orbit phenomena in 2D materials”
-1. [Luis Canonico (co-supervisor) ](https://www.researchgate.net/profile/Luis_Canonico)– MS 2015/2017 [“Revisiting the Quantum Hall effect in the Haldane Model”*PhD ](https://www.if.uff.br/pt/baixargeral/doc_download/456-)*Pós-doc at INC2 - Barcelona*
-1. [Jose Hugo Garcia ](https://www.linkedin.com/in/adamecius)– PhD 2011/2015 [“The kernel polynomial method for quantum transport in disordered systems” ](http://phdtree.org/pdf/25957408-extrinsic-spin-relaxation-in-silicon-spin-transport-devices/)*researcher at ICN2 - Barcelona*
-1. [Diego Oliver Daldoce Pereira ](https://www.linkedin.com/pub/jing-li/3b/34/945)– MS 2014/2015 [“Spin-dependent electronic scattering in graphene” *PhD student*](http://objdig.ufrj.br/12/teses/836514.pdf)
-8. [Tiago Siman Machado(co-supervisor) ](http://www.cefet-rj.br/index.php/composicao)– PhD 2008/2011 [“Magnetism and magnotransport in nanostructures”*director- ](http://cbpfindex.cbpf.br/publication_pdfs/tese.2011_11_11_16_07_51.pdf)*CEFET/RJ Angra dos Reis*
+- Raymond Valencia Master 2024/ "Orbital Accummulation in Chiral Molecules", Universidad Central de Venezuela.
+- Rodrigo P. Câmara - Phd 2023/ "Topology in Photonics" Instituto Superior Técnico, Portugal  (co-supervisor)
+- Fabio Rangel –  Master 2018/2020 “Electronic Properties of MoS2 Monolayers with Vacancies”  
+- [Luis Canonico (co-supervisor) ](https://www.researchgate.net/profile/Luis_Canonico)– PhD 2017/2020 “Orbital and spin transport in two- dimensional systems”  
+- [Tarik Cysne ](https://www.researchgate.net/profile/Tarik_Cysne)– PhD 2015/2019 “Spin-orbit phenomena in 2D materials”
+- [Luis Canonico (co-supervisor) ](https://www.researchgate.net/profile/Luis_Canonico)– MS 2015/2017 [“Revisiting the Quantum Hall effect in the Haldane Model”*PhD ](https://www.if.uff.br/pt/baixargeral/doc_download/456-)*Pós-doc at INC2 - Barcelona*
+- [Jose Hugo Garcia ](https://www.linkedin.com/in/adamecius)– PhD 2011/2015 [“The kernel polynomial method for quantum transport in disordered systems” ](http://phdtree.org/pdf/25957408-extrinsic-spin-relaxation-in-silicon-spin-transport-devices/)*researcher at ICN2 - Barcelona*
+- [Diego Oliver Daldoce Pereira ](https://www.linkedin.com/pub/jing-li/3b/34/945)– MS 2014/2015 [“Spin-dependent electronic scattering in graphene” *PhD student*](http://objdig.ufrj.br/12/teses/836514.pdf)
+- [Tiago Siman Machado(co-supervisor) ](http://www.cefet-rj.br/index.php/composicao)– PhD 2008/2011 [“Magnetism and magnotransport in nanostructures”*director- ](http://cbpfindex.cbpf.br/publication_pdfs/tese.2011_11_11_16_07_51.pdf)*CEFET/RJ Angra dos Reis*
 
 \* Undergraduate research supervision: [Guilherme Bastos Travassos, Cinthya ](https://www.linkedin.com/in/guilherme-bastos-dos-santos-travassos-a81511119)[Langue Blois, Rubem Raphael Caetano](https://www.linkedin.com/in/cinthya-blois-31404730) , [Cristiana Lopes Lara](https://www.linkedin.com/in/cristiana-lopes-lara-91b3989a/) , Diego Oliver Daldoce Pereira, Rogério Caldas Pinto Ferreira, [Alexandre Bacellar.](https://www.linkedin.com/in/alexandre-bacellar/)
 
 ## Invited talks at international conferences 
-
-- Orbital currents, Barcelona, Spain (2023)
+- International Conference on Magnetism ICM2024, Bologna, Italy (2024).
+- IEEE International Magnetic Conference (INTERMAG) 2024, Rio de Janeiro, Brazil (2024).
+- APS March Meeting 2024 (invited session), Minneapolis, USA (2024).
+- Orbital currents, Barcelona, Spain (2023).
 - Korean Magnetics Society Meeting, Busan, South Korea (2023). 
 - 2023 Orbitronics Workshop, Daejon, South Korea (2023).
 - Escola Brasileira de Estrutura Eletrônica, Campinas, Brazil - short course (2023). 
@@ -73,10 +77,12 @@ Thesis Advisor: Mucio A. Continentino
 - II Workshop of Multifunctional Materials, Huatulco, México (2004).
 
 ## Recent Synergistic Activities  
+- Editorial board - Physical Review Reseach 2025 -
 - Part of the team that developed [KITE - open-source software - quantum transport calculations.](https://quantum-kite.com/)
 - Editorial Board - Europhysics Letters 2020-2023 
 - Executive Editorial Board - Solid State Communications 2020-2023  
-- Magnonics 2023 - Scientific Commitee.  
+- Magnonics 2023 - Scientific Commitee.
+- Organizer - IOP- CMD 29 mini-coloquium: Orbitronics - Exploring the Power of Orbital Angular Momentum Manipulation, Braga, PT (Sep-2024).
 - Organizer - SPICE conference ”Orbitronics: from Topological Matter to next Level Electronics” (July-2022).  
 - Organizer-IOP-CMD29 online series: Real-space simulations of topological matter and disordered materials(October- 2021)  
 - Referee of Physical Review Letters, Physical Review B, Nature, Nature Communications, Scientific Reports, 2D materials  
@@ -111,3 +117,4 @@ Thesis Advisor: Mucio A. Continentino
 - [LUZ INFRAVERMELHA FOI CONFINADA NO MENOR VOLUME POSSÍVEL](https://www.ecum.uminho.pt/pt/_layouts/15/uminho.portaisuoei.ui/pages/eventsdetail.aspx?id=56129)
 - [Pesquisadores brasileiros avançam no desenvolvimento da orbitrônica
 ](https://sbfisica.org.br/v1/sbf/pesquisadores-brasileiros-avancam-no-desenvolvimento-da-orbitronica/)
+- [90 segundos de Ciência RTP - Portugal](https://www.rtp.pt/play/p2936/e858740/90-segundos-ciencia)

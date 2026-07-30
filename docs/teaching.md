@@ -1,6 +1,12 @@
 ## @UMINHO
 
+2024-2025: Quantum Physics of Many-Bodies
+
 2023-2024: Quantum Physics of Many-Bodies
+
+## @CBPF
+
+2026: Introduction to 2D materials
 
 ##@UFRJ
 * 2019: Tópicos de Física Geral-II

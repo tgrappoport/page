@@ -1,15 +1,47 @@
  
-   1. *"Chiral terahertz lasing with Berry curvature dipoles"*,  Amin Hakimi, Kasra Rouhi, Tatiana G. Rappoport, Mario G. Silveirinha, Filippo Capolino; [arXiv:2312.15142](https://arxiv.org/abs/2312.15142) 
-  2. *"Orbital Hall effect and topology on a two-dimensional triangular lattice: from bulk to edge"*, Anderson L. R. Barbosa, Luis M. Canonico, Jose H. García, Tatiana G. Rappoport;
-[arXiv:2311.11715](https://arxiv.org/abs/2311.11715)
-  1. *"Non-Hermitian $Z_2$ Photonic Topological Insulators
-"*,    Rodrigo P. Câmara, Tatiana G. Rappoport, Mário G. Silveirinha; [arXiv:2301.13660.
-](https://arxiv.org/abs/2301.13660)
+  1. *"Orbital Hall effect from orbital magnetic moments of Bloch states: the role of a new correction term"*, Tarik P. Cysne, Ivo Souza, Tatiana G. Rappoport; [Phys. Rev. Research 8, 033086 (2026).](https://doi.org/10.1103/xflp-2y1c)
 
-  1. *"Generation and control of non-local chiral currents in graphene superlattices by orbital Hall effect
-"*,     Juan Salvador-Sánchez, Luis M. Canonico, Ana Pérez-Rodríguez, Tarik P. Cysne, Yuriko Baba, Vito Clericò, Marc Vila, Daniel Vaquero, Juan Antonio Delgado-Notario, José M. Caridad, Kenji Watanabe, Takashi Taniguchi, Rafael A. Molina, Francisco Domínguez-Adame, Stephan Roche, Enrique Diez, Tatiana G. Rappoport, Mario Amado; [arXiv:2206.04565.
-](https://arxiv.org/abs/2206.04565)
- 
+  1. *"Multipolar orbital relaxation of the $t_{2g}$ states"*, Aurélien Manchon, Chi Sun, Xiaobai Ning, Tetsuya Sato, Takeo Kato, Tatiana G. Rappoport; [Phys. Rev. Lett. 136, 226801 (2026).](https://doi.org/10.1103/h17x-qg4y)
+
+  1. *"Real-space spectral approach to orbital magnetization"*, Kevin J. U. Vidarte, Henrique P. Veiga, João M. V. P. Lopes, Ramon Cardias, Aires Ferreira, Tarik P. Cysne, Tatiana G. Rappoport; [Phys. Rev. B 113, 224438 (2026).](https://doi.org/10.1103/bhg8-c3rw)
+
+  1. *"Real-space first-principles approach to orbitronic phenomena in metallic multilayers"*, Ramon Cardias, Hugo U. R. Strand, Anders Bergman, A. B. Klautau, Tatiana G. Rappoport; [Communications Physics 9, 203 (2026).](https://doi.org/10.1038/s42005-026-02609-4)
+
+  1. *"Ferromagnetic-like spin splitting induced tunneling magnetoresistance and exchange bias in fully compensated ferrimagnetic tunnel junctions"*, Yibo Xu, Shihao Jia, Maoxuan Ye, Jiayou Chen, Wei Yang, Xinhe Wang, Shen Li, Jiangchao Han, Juan-Carlos Rojas-Sánchez, Tatiana G. Rappoport, Xiaoyang Lin, Weisheng Zhao; [Appl. Phys. Lett. 129, 023505 (2026).](https://doi.org/10.1063/5.0336776)
+
+  1. *"Staggered orbital magnetization from itinerant electrons: orbital antiferro- and ferrimagnetic phases"*, Lucas L. Lage, Kevin J. U. Vidarte, Tarik P. Cysne, Tatiana G. Rappoport, A. Latgé, R. B. Muniz; [arXiv:2607.10355](https://arxiv.org/abs/2607.10355)
+
+  1. *"Phase-selective orbital-charge conversion in MoTe$_2$"*, J. L. Costa, E. Santos, G. R. Gallo, G. Rodrigues-Junior, R. O. Cunha, E. L. T. França, Ramon Cardias, Tatiana G. Rappoport, J. B. S. Mendes, A. Azevedo; [arXiv:2607.01623](https://arxiv.org/abs/2607.01623)
+
+  1. *"Large-area sputtered 2H-MoS2 thin films for spin and orbital charge conversion"*, A. S. Vieira, G. R. Gallo, E. Santos, G. Rodrigues-Junior, Ramon Cardias, Tatiana G. Rappoport, L. G. Moura, R. O. Cunha, A. Azevedo, J. B. S. Mendes; [Research Square, doi:10.21203/rs.3.rs-7812108/v1](https://doi.org/10.21203/rs.3.rs-7812108/v1)
+
+  1. *"Orbitronics in two-dimensional materials"*, Tarik P. Cysne, Luis M. Canonico, Marcio Costa, R. B. Muniz, Tatiana G. Rappoport; [npj Spintronics 3, 39 (2025).](https://doi.org/10.1038/s44306-025-00103-1) (review)
+
+  1. *"Broadband high-performance terahertz polarizers by nanoimprint lithography for advanced applications"*, Alexandre Chícharo, Zdeněk Kašpar, Tatiana G. Rappoport, Ajinkya Punjal, Chun-Da Liao, Pieter De Beule, Jérôme Borme, Nuno M. R. Peres, Pedro Alpuim; [Opt. Express 33, 36682 (2025).](https://doi.org/10.1364/OE.558242)
+
+  1. *"Symmetry-based classification of Chern phases in honeycomb photonic crystals"*, Rodrigo P. Câmara, Tatiana G. Rappoport, Mário G. Silveirinha; [Phys. Rev. B 111, 155422 (2025).](https://doi.org/10.1103/PhysRevB.111.155422)
+
+  1. *"Extrinsic Orbital Hall Effect: Orbital Skew Scattering and Crossover between Diffusive and Intrinsic Orbital Transport"*, Alessandro Veneri, Tatiana G. Rappoport, Aires Ferreira; [Phys. Rev. Lett. 134, 136201 (2025).](https://doi.org/10.1103/PhysRevLett.134.136201)
+
+  1. *"Extrinsic Orbital Hall Effect and Orbital Relaxation in Mesoscopic Devices"*, Anderson L. R. Barbosa, Hyun-Woo Lee, Tatiana G. Rappoport; [arXiv:2507.01941](https://arxiv.org/abs/2507.01941)
+
+  1. *"Symmetry Analysis of the Non-Hermitian Electro-Optic Effect in Crystals"*, Sylvain Lannebère, Tatiana G. Rappoport, Tiago A. Morgado, Ivo Souza, Mário G. Silveirinha; [arXiv:2502.03399](https://arxiv.org/abs/2502.03399)
+
+  1. *"Chirality and topology team up to produce orbital monopole"*, Hyun-Woo Lee, Tatiana G. Rappoport; [Nature Physics 20, 1857 (2024).](https://doi.org/10.1038/s41567-024-02658-y) (news and views)
+
+  1. *"Transport of orbital currents in systems with strong intervalley coupling: the case of Kekulé distorted graphene"*, Tarik P. Cysne, R. B. Muniz, Tatiana G. Rappoport; [SciPost Phys. Core 7, 046 (2024).](https://scipost.org/SciPostPhysCore.7.3.046)
+
+  1. *"Non-Hermitian linear electro-optic effect in three-dimensional materials"*, Tiago A. Morgado, Tatiana G. Rappoport, Stepan S. Tsirkin, Sylvain Lannebère, Ivo Souza, Mário G. Silveirinha; [Phys. Rev. B 109, 245126 (2024).](https://doi.org/10.1103/PhysRevB.109.245126)
+
+  1. *"Controlling the orbital Hall effect in gapped bilayer graphene in the terahertz regime"*, Tarik P. Cysne, W. J. M. Kort-Kamp, Tatiana G. Rappoport; [Phys. Rev. Research 6, 023271 (2024).](https://doi.org/10.1103/PhysRevResearch.6.023271)
+
+  1. *"Chiral terahertz lasing with Berry-curvature dipoles"*, Amin Hakimi, Kasra Rouhi, Tatiana G. Rappoport, Mario G. Silveirinha, Filippo Capolino; [Phys. Rev. Applied 22, L041003 (2024).](https://doi.org/10.1103/PhysRevApplied.22.L041003)
+
+  1. *"Orbital Hall effect and topology on a two-dimensional triangular lattice: from bulk to edge"*, Anderson L. R. Barbosa, Luis M. Canonico, Jose H. García, Tatiana G. Rappoport; [Phys. Rev. B 110, 085412 (2024).](https://doi.org/10.1103/PhysRevB.110.085412)
+
+  1. *"Non-Hermitian photonic spin Hall insulators"*, Rodrigo P. Câmara, Tatiana G. Rappoport, Mário G. Silveirinha; [Phys. Rev. B 109, L241406 (2024).](https://doi.org/10.1103/PhysRevB.109.L241406)
+
+  1. *"Generation and control of non-local chiral currents in graphene superlattices by orbital Hall effect"*, Juan Salvador-Sánchez, Luis M. Canonico, Ana Pérez-Rodríguez, Tarik P. Cysne, Yuriko Baba, Vito Clericò, Marc Vila, Daniel Vaquero, Juan Antonio Delgado-Notario, José M. Caridad, Kenji Watanabe, Takashi Taniguchi, Rafael A. Molina, Francisco Domínguez-Adame, Stephan Roche, Enrique Diez, Tatiana G. Rappoport, Mario Amado; [Phys. Rev. Research 6, 023212 (2024).](https://doi.org/10.1103/PhysRevResearch.6.023212)
 
   1. *“First light on orbitronics as a viable alternative to electronics (News and Views)"*, Tatiana G. Rappoport , [Nature 619, 38 (2023).](https://doi.org/10.1038/d41586-023-02072-z) (news and views)
   2. *"Ultrathin films of black phosphorus as suitable platforms for unambiguous observation of the orbital Hall effect"*, Tarik P. Cysne, Marcio Costa, M. B. Nardelli, R. B. Muniz, Tatiana G. Rappoport , [Phys. Rev. B 108, 165415 (2023).](https://doi.org/10.1103/PhysRevB.108.165415)

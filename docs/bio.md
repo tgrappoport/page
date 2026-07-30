@@ -30,7 +30,10 @@ Thesis Advisor: Mucio A. Continentino
 - 2008-2013 Junior Associate at ICTP-Trieste  
 
 ## Theses Supervised  
-- Raymond Valencia Master 2024/ "Orbital Polarization in Chiral Molecules", Universidad Central de Venezuela.
+- João Octávio Oliveira Cony – PhD 2026/ "Orbitronics in 2D materials", CBPF, Brazil.
+- Filssen Schereiber – Master 2026/ "Orbitronics in 2D materials", CBPF, Brazil.
+- Gabriel Domingues Fernandes – Master 2025/2026 "Transferência de momento angular da luz para a matéria", Universidade do Minho, Portugal (co-supervisor).
+- Raymond Valencia Master 2024/2026 (expected defense Aug. 2026) "Orbital Polarization in Chiral Molecules", Universidad Central de Venezuela.
 - Rodrigo P. Câmara - Phd 2023/ "Topology in Photonics" Instituto Superior Técnico, Portugal  (co-supervisor)
 - Fabio Rangel –  Master 2018/2020 “Electronic Properties of MoS2 Monolayers with Vacancies”  
 - [Luis Canonico (co-supervisor) ](https://www.researchgate.net/profile/Luis_Canonico)– PhD 2017/2020 “Orbital and spin transport in two- dimensional systems”  
@@ -43,6 +46,14 @@ Thesis Advisor: Mucio A. Continentino
 \* Undergraduate research supervision: [Guilherme Bastos Travassos, Cinthya ](https://www.linkedin.com/in/guilherme-bastos-dos-santos-travassos-a81511119)[Langue Blois, Rubem Raphael Caetano](https://www.linkedin.com/in/cinthya-blois-31404730) , [Cristiana Lopes Lara](https://www.linkedin.com/in/cristiana-lopes-lara-91b3989a/) , Diego Oliver Daldoce Pereira, Rogério Caldas Pinto Ferreira, [Alexandre Bacellar.](https://www.linkedin.com/in/alexandre-bacellar/)
 
 ## Invited talks at international conferences 
+- Graphene 2026, Barcelona, Spain (2026).
+- Orbitronics 2026, Marseille, France (2026).
+- Spin & Orbit, San Sebastian, Spain (2025).
+- Recent Advances in Moiré Systems: from Graphene to Transition Metal Dichalcogenides, Natal, Brazil (2025).
+- Nanophotonics of 2D Materials 2025, Toruń, Poland (2025).
+- Gordon Godfrey Workshop on Spins, Topology and Strong Electron Correlations, Sydney, Australia (2025).
+- Encontro de Outono, Sociedade Brasileira de Física, Belém, Brazil (2025).
+- 7th Workshop on Spintronic Memory and Logic (SML2025), Hangzhou, China (2025).
 - International Conference on Magnetism ICM2024, Bologna, Italy (2024).
 - IEEE International Magnetic Conference (INTERMAG) 2024, Rio de Janeiro, Brazil (2024).
 - APS March Meeting 2024 (invited session), Minneapolis, USA (2024).

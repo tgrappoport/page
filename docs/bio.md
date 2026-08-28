@@ -33,7 +33,8 @@ Thesis Advisor: Mucio A. Continentino
 - João Octávio Oliveira Cony – PhD 2026/ "Orbitronics in 2D materials", CBPF, Brazil.
 - Filssen Schereiber – Master 2026/ "Orbitronics in 2D materials", CBPF, Brazil.
 - Gabriel Domingues Fernandes – Master 2025/2026 "Transferência de momento angular da luz para a matéria", Universidade do Minho, Portugal (co-supervisor).
-- Raymond Valencia Master 2024/2026 (expected defense Aug. 2026) "Orbital Polarization in Chiral Molecules", Universidad Central de Venezuela.
+- Raymond Valencia – PhD 2026/ "Orbitronics in 2D materials" (working title), Universidade do Minho and INL, Portugal (co-supervisor).
+- Raymond Valencia – Master 2024/2026 "Orbital Polarization in Chiral Molecules", Universidad Central de Venezuela.
 - Rodrigo P. Câmara - Phd 2023/ "Topology in Photonics" Instituto Superior Técnico, Portugal  (co-supervisor)
 - Fabio Rangel –  Master 2018/2020 “Electronic Properties of MoS2 Monolayers with Vacancies”  
 - [Luis Canonico (co-supervisor) ](https://www.researchgate.net/profile/Luis_Canonico)– PhD 2017/2020 “Orbital and spin transport in two- dimensional systems”  
@@ -42,6 +43,10 @@ Thesis Advisor: Mucio A. Continentino
 - [Jose Hugo Garcia ](https://www.linkedin.com/in/adamecius)– PhD 2011/2015 [“The kernel polynomial method for quantum transport in disordered systems” ](http://phdtree.org/pdf/25957408-extrinsic-spin-relaxation-in-silicon-spin-transport-devices/)*researcher at ICN2 - Barcelona*
 - [Diego Oliver Daldoce Pereira ](https://www.linkedin.com/pub/jing-li/3b/34/945)– MS 2014/2015 [“Spin-dependent electronic scattering in graphene” *PhD student*](http://objdig.ufrj.br/12/teses/836514.pdf)
 - [Tiago Siman Machado(co-supervisor) ](http://www.cefet-rj.br/index.php/composicao)– PhD 2008/2011 [“Magnetism and magnotransport in nanostructures”*director- ](http://cbpfindex.cbpf.br/publication_pdfs/tese.2011_11_11_16_07_51.pdf)*CEFET/RJ Angra dos Reis*
+
+## Postdocs
+- Lucas L. Lage – CBPF, Brazil.
+- Kevin J. U. Vidarte – INL, Portugal.
 
 \* Undergraduate research supervision: [Guilherme Bastos Travassos, Cinthya ](https://www.linkedin.com/in/guilherme-bastos-dos-santos-travassos-a81511119)[Langue Blois, Rubem Raphael Caetano](https://www.linkedin.com/in/cinthya-blois-31404730) , [Cristiana Lopes Lara](https://www.linkedin.com/in/cristiana-lopes-lara-91b3989a/) , Diego Oliver Daldoce Pereira, Rogério Caldas Pinto Ferreira, [Alexandre Bacellar.](https://www.linkedin.com/in/alexandre-bacellar/)
 
@@ -88,6 +93,7 @@ Thesis Advisor: Mucio A. Continentino
 - II Workshop of Multifunctional Materials, Huatulco, México (2004).
 
 ## Recent Synergistic Activities  
+- Organizing Committee - Orbitronics Workshop 2026, Carry-le-Rouët, France (May 2026).
 - Editorial board - Physical Review Reseach 2025 -
 - Part of the team that developed [KITE - open-source software - quantum transport calculations.](https://quantum-kite.com/)
 - Editorial Board - Europhysics Letters 2020-2023 

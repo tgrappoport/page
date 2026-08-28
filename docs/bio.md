@@ -32,10 +32,10 @@ Thesis Advisor: Mucio A. Continentino
 ## Theses Supervised  
 - João Octávio Oliveira Cony – PhD 2026/ "Orbitronics in 2D materials", CBPF, Brazil.
 - Filssen Schereiber – Master 2026/ "Orbitronics in 2D materials", CBPF, Brazil.
-- Gabriel Domingues Fernandes – Master 2025/2026 "Transferência de momento angular da luz para a matéria", Universidade do Minho, Portugal (co-supervisor).
 - Raymond Valencia – PhD 2026/ "Orbitronics in 2D materials" (working title), Universidade do Minho and INL, Portugal (co-supervisor).
-- Raymond Valencia – Master 2024/2026 "Orbital Polarization in Chiral Molecules", Universidad Central de Venezuela.
 - Rodrigo P. Câmara - Phd 2023/ "Topology in Photonics" Instituto Superior Técnico, Portugal  (co-supervisor)
+- Gabriel Domingues Fernandes – Master 2025/2026 "Transferência de momento angular da luz para a matéria", Universidade do Minho, Portugal (co-supervisor).
+- Raymond Valencia – Master 2024/2026 "Orbital Polarization in Chiral Molecules", Universidad Central de Venezuela.
 - Fabio Rangel –  Master 2018/2020 “Electronic Properties of MoS2 Monolayers with Vacancies”  
 - [Luis Canonico (co-supervisor) ](https://www.researchgate.net/profile/Luis_Canonico)– PhD 2017/2020 “Orbital and spin transport in two- dimensional systems”  
 - [Tarik Cysne ](https://www.researchgate.net/profile/Tarik_Cysne)– PhD 2015/2019 “Spin-orbit phenomena in 2D materials”
